@@ -1,15 +1,15 @@
-#node.js
+# node.js
 
-##goal of this small project : uploading file using website with form.
+## goal of this small project : uploading file using website with form.
 
-##how to start project?
+## how to start project?
 
-*download or clone repository
+* download or clone repository
 
-*launch console in project file
+* launch console in project file
 
-*write npm install
+* write npm install
 
-*write npm start
+* write npm start
 
-*paste in browser : http://localhost:9000/
+* paste in browser : http://localhost:9000/
