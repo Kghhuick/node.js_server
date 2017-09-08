@@ -2,7 +2,7 @@
 
 ##goal of this small project : uploading file using website with form.
 
-##how to start project? 
+##how to start project?
 
 *download or clone repository
 
